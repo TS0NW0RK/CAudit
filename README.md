@@ -14,3 +14,4 @@
 - watchdog (optional)
 
 In the next update the constants will be replaced by configuration files, but for now they are located in the main.py file on lines 110-118.
+Some parts of the code was written using ai
